@@ -4,8 +4,8 @@
 
 ```markdown
 1. Pay attention to the Presentation
-2. Make a Folder for this Project
-3. Install the Fiddler (Fiddlersetup.exe included in this git or visit [Fiddler page](https://www.telerik.com/download/fiddler) to download the installer)
+2. Make a Folder for this Project wherever you want
+3. Install the Fiddler (Fiddlersetup.exe included in this git or visit the Fiddler Page* to download the installer)
 4. Download the Code
 5. Open the .saz file in fiddler to view the requests to the Gandhi page.
 6. Review the original get request both on fiddler and on VS
@@ -13,3 +13,4 @@
 8. Save the data in a file
 9. **Debug!**
 ```
+[Fiddler page*](https://www.telerik.com/download/fiddler)
