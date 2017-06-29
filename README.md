@@ -13,4 +13,5 @@
 8. Save the data in a file
 9. **Debug!**
 ```
+![Instructions](https://github.com/Crossfire83/gandhiScrapper/blob/master/githubInstructions.png)
 [Fiddler page*](https://www.telerik.com/download/fiddler)
