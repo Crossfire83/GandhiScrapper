@@ -1,0 +1,16 @@
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\gandhiScrapper.exe.config
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\obj\Debug\gandhiScrapper.csprojResolveAssemblyReference.cache
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\obj\Debug\gandhiScrapper.Form1.resources
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\obj\Debug\gandhiScrapper.Properties.Resources.resources
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\obj\Debug\gandhiScrapper.csproj.GenerateResource.Cache
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\gandhiScrapper.exe
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\gandhiScrapper.pdb
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\Fizzler.dll
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\Fizzler.xml
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\obj\Debug\gandhiScrapper.exe
+C:\Users\perezra\Documents\Visual Studio 2015\Projects\gandhiScrapper\gandhiScrapper\obj\Debug\gandhiScrapper.pdb
